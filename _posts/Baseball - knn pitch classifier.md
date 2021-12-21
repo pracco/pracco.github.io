@@ -1,10 +1,13 @@
+---
+layout: post
+title: Building a KNN pitch classifier using grid search
+---
+
 # Building a pitch classifier using 2019 MLB pitch data
 
 This notebook assignment has been repurposed to read the 2019_pitches.csv dataset from https://www.kaggle.com/pschale/mlb-pitch-data-20152018?select=pitches.csv
 
-
 This is the spin axis polar coordinate system used by the Kaggle dataset:
-
 
 ![spin%20axis.png](attachment:spin%20axis.png)
 
