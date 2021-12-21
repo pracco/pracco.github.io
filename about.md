@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm the Senior Manager of Data Science at the New York State MTA.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pjracco@gmail.com](mailto:pjracco@gmail.com)
