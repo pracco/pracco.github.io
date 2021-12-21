@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+
+I'm the Senior Manager of Data Science at the New York State MTA
 
 ### More Information
 
-I'm the Senior Manager of Data Science at the New York State MTA.
+I work with baseball data in Python in my spare time
 
 ### Contact me
 
